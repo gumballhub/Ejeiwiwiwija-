@@ -1,0 +1,16 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="SBT ARATU HD" tvg-logo="http://209.14.88.42:80/images/9ff7196fe177465ceee37c64176a0d29.png" group-title="CANAIS | ABERTOS 🔥",SBT ARATU HD
+http://cdncyb.xyz:80/52823854/52477071/3425512.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SBT BAHIA FHD" tvg-logo="http://209.14.88.42:80/images/9ff7196fe177465ceee37c64176a0d29.png" group-title="CANAIS | ABERTOS 🔥",SBT BAHIA FHD
+http://cdncyb.xyz:80/52823854/52477071/3425513.ts
+
+#EXTINF:-1 tvg-id="recordtvbahia.br" tvg-name="RECORDTV BAHIA HD" tvg-logo="http://209.14.88.42:80/images/35a6f67324c0d71f37190a521b5c3376.png" group-title="CANAIS | ABERTOS 🔥",RECORDTV BAHIA HD
+http://cdncyb.xyz:80/52823854/52477071/3425426.ts
+
+#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="CARTOON NETWORK FHD" tvg-logo="http://209.14.88.42:80/images/9c74c5978c59a4a19a9766ea27863eab.png" group-title="CANAIS | INFANTIS 🔥",CARTOON NETWORK FHD
+http://cdncyb.xyz:80/52823854/52477071/3425308.ts
+
+#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="CARTOON NETWORK HD" tvg-logo="http://209.14.88.42:80/images/9c74c5978c59a4a19a9766ea27863eab.png" group-title="CANAIS | INFANTIS 🔥",CARTOON NETWORK HD
+http://cdncyb.xyz:80/52823854/52477071/3425309.ts
